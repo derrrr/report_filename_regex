@@ -1,3 +1,3 @@
 # report_filename_regex
 
-a script for rename reports with regex
+a script for renaming reports with regex
